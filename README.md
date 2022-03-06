@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **Backend and DevOps**
 
-- 💬 Ask me about **svelte, react**
+- 💬 Ask me about **svelte, react, frontend**
 
 - 📫 How to reach me **vishvakumar_v@yahoo.com**
 
@@ -23,7 +23,7 @@
 <a href="https://dev.to/vishvakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vishvakumar" height="30" width="40" /></a>
 <a href="https://twitter.com/vishvakumar_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vishvakumar_v" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vishvakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishvakumar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/vishvakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="vishvakumar" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/4428528/vishvakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4428528/vishvakumar" height="30" width="40" /></a>
 <a href="https://fb.com/vishvakumar.v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vishvakumar.v" height="30" width="40" /></a>
 <a href="https://medium.com/@vishvakumar_v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vishvakumar_v" height="30" width="40" /></a>
 </p>
