@@ -7,15 +7,9 @@
 
 - 🔭 I’m currently working on [Migration Project called NFS for Decathlon UK Ltd](http://decathlon.co.uk/)
 
-- 🌱 I’m currently learning **nodejs, typescript**
+- 💬 Ask me about **JavaScript, svelte, react, frontend**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
-
-- 🤝 I’m looking for help with **Backend and DevOps**
-
-- 💬 Ask me about **svelte, react, frontend**
-
-- 📫 How to reach me **vishvakumar_v@yahoo.com**
+- 📫 How to reach me **vishvakumarvk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
